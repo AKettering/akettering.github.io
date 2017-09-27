@@ -1,1 +1,22 @@
 
+<!DOCTYPE html>
+<html>
+<title> my map</title>
+<body>
+
+<img src="boat.jpg" usemap="#mymap" boder="0">
+
+<map name="mymap">
+
+<area shape="rect" coords=“658,128,148,388” 
+href=“excursions.html”>
+
+<area shape="circle" coords="1504,920,190" 
+href="specials.html">
+
+<area shape="polygon" coords="198,620,694,600,374,1018" 
+href="calendar.html">
+
+</map>
+</body>
+</html>
